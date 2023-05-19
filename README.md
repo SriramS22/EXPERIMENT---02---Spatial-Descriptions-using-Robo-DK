@@ -35,6 +35,8 @@ Robot positions are recorded as Targets. Follow these steps to create two target
 Similaly fix target in the given position 
 
 ## Output
+<img width="956" alt="robo dk" src="https://github.com/SriramS22/EXPERIMENT---02---Spatial-Descriptions-using-Robo-DK/assets/119094390/8a53b49e-686c-4fb8-9647-d075a0c0ae5c">
+
 
 ## Results
 
